@@ -51,7 +51,7 @@ function SetFunction(){
     }
     else{
         flag = true;
-        MyimageInterval = setInterval(SetBackGround, 2000)
+        MyimageInterval = setInterval(SetBackGround, 1200)
     }
 } 
 
